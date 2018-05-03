@@ -1,0 +1,1 @@
+For this assignment, a mysql database (with stored procedures) was created to store 3 tables of data where one table was a cross reference table. 
